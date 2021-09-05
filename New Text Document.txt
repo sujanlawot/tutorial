@@ -1,3 +1,7 @@
 hello Its me Sujan
+<<<<<<< HEAD
 This is the change made
 Oh Change made by Sujan
+=======
+This is the change made
+>>>>>>> main
